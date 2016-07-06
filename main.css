@@ -1,0 +1,41 @@
+body{
+  background-color: #E3E3E3;
+}
+.obj4sale{
+  float: left;
+  padding: .15vw;
+  border-radius: 2rem;
+  margin-left: 1rem;
+}
+.info{
+  padding: .2rem;
+  width: 10.25rem;
+  height: 2rem;
+  margin: 0rem .05rem 1rem .0rem;
+  background-color: white;
+  line-height: .2rem;
+  border-radius: 0rem 0rem .3rem .3rem;
+  white-space: nowrap;
+  overflow-x: hidden;
+
+}
+h3{
+  text-decoration: none;
+  font-size: .2rem;
+}
+.clickable{
+text-decoration: none;
+color: black;
+background-color: white;
+}
+.company{
+  display: inline;
+  color: #92ACBD;
+}
+.price{
+  float: right;
+  color: #80C44E;
+}
+img{
+  border-radius: .3rem .3rem 0rem 0rem;
+}
